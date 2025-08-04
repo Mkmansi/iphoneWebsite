@@ -1,19 +1,13 @@
 # iphone_website
 https://github.com/user-attachments/assets/2d0a12e0-100b-49ec-a3b2-91156a10c8f5
 
-Website URL : https://fanciful-buttercream-24db67.netlify.app/
+---
 
 # 🍎 Apple iPhone 15 Pro Clone
 
 A high-fidelity front-end rebuild of the Apple iPhone 15 Pro landing page, featuring advanced animations and 3D effects using **GSAP** and **Three.js**. This project replicates the elegant design and immersive experience of the original Apple website to showcase front-end animation and 3D skills.
 
 🔗 **Live Demo**: https://fanciful-buttercream-24db67.netlify.app/
-
----
-
-## 📸 Preview
-
-> *(Include a screenshot or GIF of your homepage in action here)*
 
 ---
 
@@ -51,7 +45,7 @@ A high-fidelity front-end rebuild of the Apple iPhone 15 Pro landing page, featu
 ## 📁 Project Structure
 
 
-```plaintext
+```
 iphone15-clone/
 ├── index.html              # Main landing page
 ├── style.css               # Global CSS styles
@@ -64,8 +58,49 @@ iphone15-clone/
 ├── /libs/                  # External JS libraries (optional if not using CDN)
     ├── gsap.min.js
     └── three.min.js
+```
+---
 
+## Install Dependencies
 
+-npm install,
+-npm run dev
 
+---
+
+## 🧰 Build Tools (Optional)
+- Vite or Webpack (for fast dev & bundling)
+
+- GLTF Viewer to preview 3D models
+
+- VS Code + Live Server extension
+
+---
+
+## 🌐 Deployment
+Deploy to Netlify or Vercel by dragging your project folder or linking your GitHub repo:
+
+Netlify Steps:
+
+1. Go to netlify.com
+
+2. Click "New site from Git"
+
+3. Connect your GitHub repo
+
+4. Set build command (if using bundler): npm run build
+
+5. Set publish directory: dist/ or root
+
+---
+
+## 🙌 Contributing
+Pull requests are welcome! For major changes, please open an issue to discuss what you'd like to improve or change.
+
+---
+
+👨‍💻 Author
+Mansi Kumari
+- Github Portfolio : https://github.com/Mkmansi
 
 
