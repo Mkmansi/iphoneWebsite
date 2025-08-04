@@ -100,7 +100,10 @@ Pull requests are welcome! For major changes, please open an issue to discuss wh
 ---
 
 👨‍💻 Author
+
 Mansi Kumari
 - Github Portfolio : https://github.com/Mkmansi
+
+---
 
 
